@@ -1,0 +1,59 @@
+{
+    "greetings":{
+        "user": [
+            "Hello!",
+            "Good evening!",
+            "Hi!"
+        ],
+        "bot": [
+            "Hello, nice to meet you!",
+            "Good evening! Do you have a question?",
+            "Hi, nice to see you!"
+        ]
+    },
+
+    "questions":{
+        "user": [
+            "How are you?",
+            "Can you speak German?",
+            "What is google?",
+            "What is a car?",
+            "What is a train?",
+            "Can you speak Spanish?"
+        ],
+        "bot": [
+            "I am fine, thank you. How are you today?",
+            "No, I was programmed to anwer and recognize English phrases.",
+            "Google is a company in the USA, which invented the google search for example.",
+            "A car or automobile is a vehicle with a motor and usually four wheels.",
+            "A train is a vehicle which drives on rails and which transports people or freight.",
+            "Buenas tardes. - That's all I know."
+        ]
+    },
+
+    "conversation":{
+        "user": [
+            "I am ",
+            "I can "
+        ],
+        "bot": [
+            "Nice to meet you! I am a chat bot. :D",
+            "Nice, this sounds good. If you have questions to this theme or something else feel free to ask!"
+        ]
+    },
+
+    "functions":{
+        "user": [
+            "What's the time?",
+            "Which day is today?",
+            "What's the date of today?",
+            "Help!"
+        ],
+        "bot": [
+            "show_time",
+            "show_day",
+            "show_date",
+            "show_help"
+        ]
+    }
+}
